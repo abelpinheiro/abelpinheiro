@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Vue and Computer Vision.
 - 📖 My goals are to further develop my skills in Java and Android Development. I'd like to learn Go and Flutter too.
 - ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese) and 🏊 swimming! 
+
+![Metrics](https://github.com/abelpinheiro/abelpinheiro/blob/main/github-metrics.svg)
  <!--
 **abelpinheiro/abelpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
