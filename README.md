@@ -7,7 +7,7 @@
 <details>
   <center>
   <summary>Github Stats</summary>
-  <img align="center" alt="Nishant's GitHub Metric" src="https://github.com/abelpinheiro/abelpinheiro/blob/main/github-metrics.svg" />  </center>
+  <img align="center" alt="Abel's GitHub Metric" src="https://github.com/abelpinheiro/abelpinheiro/blob/main/github-metrics.svg" />  </center>
 </details>
  <!--
 **abelpinheiro/abelpinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
