@@ -14,7 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          template: terminal
+          template: classic
           # xkcd
           plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day  # Section title
