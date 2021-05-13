@@ -14,7 +14,12 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
+          template: markdown
+          filename: render.pdf        # Output file
+          markdown: TEMPLATE.md       # Template file
+          markdown_cache: .cache      # Cache folder
+          config_output: markdown-pdf # Output as pdf file
+          
           # xkcd
           plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day  # Section title
