@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abel
-- 🔭 I’m currently working on Vue and 3D reconstruction.
-- 🌱 I’m currently learning Vue and Computer Vision.
+- 🔭 I’m currently working on Vue, C#, ASP.NET and 3D reconstruction.
+- 🌱 I’m currently learning Vue, C#, ASP.NET and Computer Vision.
 - 📖 My goals are to further develop my skills in Java and Android Development. I'd like to learn Go and Flutter too.
 - ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese) and 🏊 swimming! 
 
