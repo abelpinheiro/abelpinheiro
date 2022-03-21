@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abel
-- 🔭 I’m currently working on C#, ASP.NET and 3D reconstruction.
-- 🌱 I’m currently learning C#, ASP.NET and Computer Vision.
-- 📖 My goals are to further develop my skills in Java and Android Development. I'd like to learn Go and Flutter too.
+- 🔭 I’m currently working on C# and ASP.NET Core.
+- 🌱 I’m currently learning C#, ASP.NET and Digital Image Processing and Control Systems.
+- 📖 My goals are to further develop my skills in .NET and Android Development. I'd like to learn Go one day.
 - ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese) and 🏊 swimming! 
 
 <details>
