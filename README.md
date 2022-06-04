@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Abel
-- 🔭 I’m currently working on C# and ASP.NET Core.
-- 🌱 I’m currently learning C#, ASP.NET, Digital Image Processing and Control Systems.
+- 🔭 I’m currently working on C# and .NET 6.
+- 🌱 I’m currently learning C#, NET, Digital Image Processing and Control Systems.
 - 📖 My goals are to further develop my skills in .NET and Android Development. I'd like to learn Go one day.
-- ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese) and 🏊 swimming! 
+- ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese and German) and 🏊 swimming! 
 
 ### Skills
 <div align="center" style="display: inline_block">
