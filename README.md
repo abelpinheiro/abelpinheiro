@@ -1,8 +1,12 @@
 ### Hi there 👋, I'm Abel
 - 🔭 I’m currently working on C# and .NET 6.
-- 🌱 I’m currently learning C#, NET, Digital Image Processing and Control Systems.
+- 🌱 I’m currently learning Java, Angular, Digital Image Processing and Control Systems.
 - 📖 My goals are to further develop my skills in .NET and Android Development. I'd like to learn Go one day.
 - ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese and German) and 🏊 swimming! 
+
+September Goals!
+[] Organize the CV android app into a single repo.
+[] Further develop a Java/Angular project (GenQuiz?)
 
 ##
 
