@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I love playing 🕹 retro games, playing the 🎻 violin, learning new languages (currently Japanese and German) and 🏊 swimming! 
 
 September Goals!
-[] Organize the CV android app into a single repo.
-[] Further develop a Java/Angular project (GenQuiz?)
+- [ ] Organize the CV android app into a single repo.
+- [ ] Further develop a Java/Angular project (GenQuiz?)
 
 ##
 
